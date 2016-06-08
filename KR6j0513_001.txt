@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:58.616045
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:21
 #+TITLE: 寶藏天女陀羅尼法
 #+PROPERTY: CBETA_ID T21n1282
 #+PROPERTY: ID KR6j0513
